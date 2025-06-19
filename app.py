@@ -1,8 +1,6 @@
 import os
 import oci
-import faiss
 import uvicorn
-import numpy as np
 from fastapi import FastAPI, HTTPException
 from contextlib import asynccontextmanager
 from schemas import InputRequest, OutputResponse
