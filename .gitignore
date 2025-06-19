@@ -1,0 +1,46 @@
+# Byte-compiled / optimized / compiled files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+# Add other common virtual environment names if used, e.g., .env/
+
+# Configuration file
+config.txt
+
+# Editor/IDE specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Database files
+*.sqlite3
+*.db
+# For specific database files, e.g., your_database.db
+
+# Environment variables
+.env
+*.env
+# For files containing sensitive information like API keys or secrets
+
+# Test/build artifacts
+.pytest_cache/
+htmlcov/
+.coverage
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+logs/
+
+# Operating System files
+.DS_Store
+Thumbs.db
